@@ -1,5 +1,3 @@
-# Computer-Networks-Project, 3rd year. Computer Science, Ain Shams University.
-
 Networks Project Description
      HTTP SERVER
 
